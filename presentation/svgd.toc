@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Preliminary}{3}{0}{1}
+\beamer@sectionintoc {2}{Problem Setup}{9}{0}{2}
+\beamer@sectionintoc {3}{Stein's Identity}{10}{0}{3}
+\beamer@sectionintoc {4}{Algorithm}{13}{0}{4}
+\beamer@sectionintoc {5}{References}{23}{0}{5}
