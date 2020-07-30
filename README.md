@@ -9,5 +9,5 @@ Stein variational Gradient Descend (SVGD) is a Monte Carlo Method used to draw s
 # References
 _Paper_: Liu, Qiang and Wang, Dilin (2016). Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm ([arXiv.org](https://arxiv.org/abs/1608.04471))
 
-_Code_: github.com/DartML/Stein-Variational-Gradient-Descent \
+_Code_: [github.com/DartML/Stein-Variational-Gradient-Descent](https://github.com/DartML/Stein-Variational-Gradient-Descent) \
 This is where the SVGD kernel and update functions are from.
