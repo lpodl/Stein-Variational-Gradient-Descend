@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.14)  26 JUL 2020 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.14)  30 JUL 2020 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.tex"
-(c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.tex
+**"c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.tex"
+(c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -804,7 +804,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen305
 \l_MT_above_shortintertext_sep=\dimen306
 \l_MT_below_shortintertext_sep=\dimen307
-) (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.aux)
+) (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.aux)
 \openout1 = `svgd.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -893,7 +893,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
- (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.out) (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.out)
+ (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.out) (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.out)
 \@outlinefile=\write5
 \openout5 = `svgd.out'.
 
@@ -913,9 +913,9 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
- (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.nav) [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.nav) [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.toc) [2
+] (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.toc) [2
 
 ] [3
 
@@ -937,7 +937,7 @@ Package pdftex.def Info: gradient_descend.jpeg  used on input line 89.
 (pdftex.def)             Requested size: 305.43423pt x 171.72711pt.
  [5
 
- <c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/gradient_descend.jpeg>] [6
+ <c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/gradient_descend.jpeg>] [6
 
 ]
 <rbf_kernel.png, id=123, 410.2828pt x 249.93375pt>
@@ -951,7 +951,7 @@ Overfull \vbox (31.0337pt too high) detected at line 108
 
 [7
 
- <c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/rbf_kernel.png>] [8
+ <c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/rbf_kernel.png>] [8
 
 ] [9
 
@@ -5207,7 +5207,7 @@ Package pdftex.def Info: ./animation_kernel/kernel_mvn-199.png  used on input li
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
- (c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.aux)
+ (c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 286.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
 Package rerunfilecheck Info: File `svgd.out' has not changed.
@@ -5215,14 +5215,14 @@ Package rerunfilecheck Info: File `svgd.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  35062 strings out of 492616
- 760825 string characters out of 6132768
+ 760893 string characters out of 6132768
  861697 words of memory out of 5000000
  37713 multiletter control sequences out of 15000+600000
  548472 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,17n,74p,881b,985s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,17n,74p,885b,985s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:/Users/Justin/Google Drive/Uni/Vorlesungen/Monte Carlo Methods/presentation/svgd.pdf" (23 pages, 10046019 bytes).
+Output written on "c:/Users/Justin/Google Drive/Code/Stein-Variational-Gradient-Descend/presentation/svgd.pdf" (23 pages, 10046102 bytes).
 PDF statistics:
  8189 PDF objects out of 8907 (max. 8388607)
  3880 compressed objects within 39 object streams

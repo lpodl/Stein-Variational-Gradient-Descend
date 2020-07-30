@@ -169,14 +169,14 @@ TU Berlin \\
     \uncover<2->{
     Focus on sets $\mathcal{Q}$ consisting of distributions obtained by transforming a reference distribution. If $T: \mathcal{X} \rightarrow \mathcal{X}$ is a transformation, consider $x \sim q_0$ and $z = T(x)$ with density
     \begin{align*}
-        q_{[T]}(z) = q(T^{-1}(z)) \cdot \vert \textup{det}(\nabla_xT^{-1}(z))\vert .
+        q_{[T]}(z) = q(T^{-1}(z)) \cdot \vert \textup{det}(\nabla_zT^{-1}(z))\vert .
     \end{align*}
     }
 \end{frame}
 
 \begin{frame}
     \frametitle{Stein Operator and KL Divergence}
-    Let $T(x) = x + \epsilon f(x)$ be a transformation, $x \sim q(x)$ and $z = T(x)$ with density $q_{[T]}(z)$. Then
+    Let $T(x) = x + \epsilon \phi(x)$ be a transformation, $x \sim q(x)$ and $z = T(x)$ with density $q_{[T]}(z)$. Then
     \begin{align*}
         {\nabla_{\epsilon}\textup{KL}(q_{[T]} \vert \vert p)\vert}_{\epsilon = 0} = - \mathbb{E}_q[\textup{tr}(\mathcal{A}_p\phi(x))].
     \end{align*}
